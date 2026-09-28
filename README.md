@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luis Diego Alvarado</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate fullstack developer from Costa Rica</h3>
 
 - 🔭 I’m currently working on [ML_Framework](https://github.com/LuiAlv2502/ML_Framework)
 
