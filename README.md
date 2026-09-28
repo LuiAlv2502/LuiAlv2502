@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Luis Diego Alvarado</h1>
 <h3 align="center">Backend & data-focused developer from Costa Rica</h3>
 
+I'm a software developer who enjoys building systems that manage real-world data and processes — from hospital management to game AI. I mainly work with Java and Python, and I'm currently expanding into C# and Machine Learning. Looking for internship/junior developer opportunities where I can keep growing as a backend and data engineer.
+
 - 🔭 Currently building **[ML_Framework](https://github.com/LuiAlv2502/ML_Framework)**
 - 🌱 Currently learning **C# and Machine Learning**
 - 📫 Reach me at **luisalvarado250205@gmail.com**
